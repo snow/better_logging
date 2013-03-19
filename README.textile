@@ -153,7 +153,7 @@ I haven't tested this on Rails 2.3.x since it became a RubyGem, so it might not 
 
 h2. How does it work?
 
-It works by modifying ActiveSupport::BufferedLogger (the Rails logger class).
+It works by modifying ActiveSupport::Logger (the Rails logger class).
 
 
 h2. License
